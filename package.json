@@ -1,0 +1,27 @@
+{
+  "name": "tokyo-midnight-saturated",
+  "publisher": "your-publisher-name",
+  "icon": "images/icon.png",
+  "displayName": "Tokyo Midnight Saturated",
+  "description": "A modified tokyo night that has more saturation and visibility.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j10czar/tokyo-midnight-saturated"
+  },
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Midnight Saturated",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Midnight Saturated-color-theme.json"
+      }
+    ]
+  }
+}
