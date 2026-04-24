@@ -1,7 +1,7 @@
 {
     "name": "Tokyo Midnight Saturated",
     "author": "Jason Tenczar",
-    "maintainers": ["JasonTenczar"],
+    "maintainers": ["Jason Tenczar"],
     "type": "dark",
     "semanticTokenColors": {
         "parameter.declaration": {
